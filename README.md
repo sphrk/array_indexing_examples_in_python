@@ -8,17 +8,20 @@
     - thresholding
     - generating PWM signal
     - clipping signal
-- S03 : Ideal Filtering
+- S03 Ideal Filtering: 
     - calculating spectrum of signal with fft
-    - ideal low pass filtering in Frequency domain
-    - ideal band pass filtering in Frequency domain
+    - ideal low pass filtering in frequency domain
+    - ideal band pass filtering in frequency domain
 - S04 :
     - 1D-median filter
     - generating gaussian mixture noise
-- S05 :
+- S05 Image Processing:
     - slicing images
     - removing desired channels from the image
     - changing pixels of desired region of image
-- S06 :
+- S06 Image Processing:
     - defining circular and annular masks
+- S07 Image Processing:
+    - low pass filtering in frequency domain
+    - high pass filtering in frequency domain
 
