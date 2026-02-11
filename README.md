@@ -15,5 +15,10 @@
 - S04 :
     - 1D-median filter
     - generating gaussian mixture noise
-
+- S05 :
+    - slicing images
+    - removing desired channels from the image
+    - changing pixels of desired region of image
+- S06 :
+    - defining circular and annular masks
 
